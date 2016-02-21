@@ -9,3 +9,5 @@ ed è pubblicato su IIS configurato con Windows authentication e diabilitando l'a
 
 il Client è una winwdows application semplice a cui ho referenziato la pagina web dell'iis e richiama
 il suo metodo
+ho seguito anche la guida:
+ https://msdn.microsoft.com/en-us/library/ff648505.aspx
