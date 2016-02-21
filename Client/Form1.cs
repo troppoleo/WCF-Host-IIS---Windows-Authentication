@@ -22,7 +22,7 @@ namespace Client
 
             localhost.Service1 myService = new localhost.Service1();
             myService.Credentials = System.Net.CredentialCache.DefaultCredentials;
-            textBox1.Text = myService.GetData(123, true);
+            textBox1.Text = myService.GetInformation();
             myService.Dispose();
         }
     }
