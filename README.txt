@@ -11,3 +11,6 @@ il Client è una winwdows application semplice a cui ho referenziato la pagina we
 il suo metodo
 ho seguito anche la guida:
  https://msdn.microsoft.com/en-us/library/ff648505.aspx
+
+
+ Nota: se faccio partire il servizio da VS quindi quando apre la pagina explorer mi restituisce il messsaggio d'errore, mentre funziona all'interno di IIS
